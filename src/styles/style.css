@@ -44,38 +44,38 @@ h2{
     padding: 15px;
     margin-bottom: 2px;
 }
-.primary{
+.btn-1{
     background-color: #69966F;
 }
-.second{
+.btn-2{
     background-color: #4E71F1;
 }
-.third{
+.btn-3{
     background-color: #A74EF1;
 }
-.fourth{
+.btn-4{
     background-color: #E79E5D;
 }
-.fifth{
+.btn-5{
     background-color: #B65353;
 }
-.primary:hover{
+.btn-1:hover{
     background-color: #457D4D;
     cursor: pointer;    
 }
-.second:hover{
+.btn-2:hover{
     background-color: #234FEF;
     cursor: pointer;
 }
-.third:hover{
+.btn-3:hover{
     background-color: #9323EF;
     cursor: pointer;
 }
-.fourth:hover{
+.btn-4:hover{
     background-color: #E38736;
     cursor: pointer;
 }
-.fifth:hover{
+.btn-5:hover{
     background-color: #A52A2A;
     cursor: pointer;
 }
